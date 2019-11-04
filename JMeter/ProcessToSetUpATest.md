@@ -8,8 +8,15 @@ JMeter.
 
 Step 3: Record the script
 
-Step 4: Customize our script (add assertions, rename transactions, add think
-time
+Step 4: Customize the script (add assertions, rename transactions, add think
+time.
 
-Step 5: Validate our script with a single user
+Step 5: Validate the script with a single user.
+
+Step 6: Configure the loadtest(define thenumber of users,number of iterations,
+warm up duration, load test duration)
+
+Step 7: Run and analyze the load test.
+
+
 
