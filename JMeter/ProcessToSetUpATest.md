@@ -1,4 +1,4 @@
-# Process To Set Up A Test 
+# Process To Set Up A JMeter Test 
 
 ## Steps to setup JMeter test:
 
