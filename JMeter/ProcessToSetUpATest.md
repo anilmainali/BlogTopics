@@ -1,5 +1,6 @@
+# Process To Set Up A Test 
 
-# Steps to setup JMeter test:
+## Steps to setup JMeter test:
 
 Step 1: Launch JMeter and prepare the recording of the script.
 
