@@ -8,4 +8,7 @@ JMeter.
 
 Step 3: Record the script
 
+Step 4: Customize our script (add assertions, rename transactions, add think
+time
+
 
